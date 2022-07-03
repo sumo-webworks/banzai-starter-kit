@@ -1,0 +1,12 @@
+export_paths:
+  - content
+  - config/auth.php
+  - config/statamic/users.php
+  - lang
+  - resources
+  - routes/web.php
+  - .gitignore
+  - package.json
+  - postcss.config.js
+  - tailwind.config.js
+  - vite.config.js

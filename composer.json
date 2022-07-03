@@ -1,0 +1,9 @@
+{
+    "name": "sumo-webworks/banzai-starter-kit",
+    "extra": {
+        "statamic": {
+            "name": "Banzai",
+            "description": "Banzai starter kit"
+        }
+    }
+}
