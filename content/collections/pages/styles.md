@@ -2,8 +2,6 @@
 id: 573f2edf-a248-4693-8703-3faf62a139e0
 blueprint: pages
 title: Styles
-author: 1
-updated_by: 1
 updated_at: 1657108582
 ---
 # Heading 1
